@@ -1,10 +1,10 @@
 # Portfolio
 
-This is my professional portfolio.
+This is my professional portfolio to illustrate work with common web development technologies.
 
 ## Getting Started
 
-All you need to do is type the URL on your web browser.
+All you need to do is type the URL in your web browser.
 
 ### Prerequisites
 
@@ -20,10 +20,19 @@ A modern web browser compatible with HTML5 and CSS3.
 
 * [**Jennifer Locke**](https://github.com/jnnfrlocke) - [Contact](jnnfrlocke@gmail.com) with questions or suggestions
 
+## Contributing
+
+Please contact me through my GitHub profile or email address listed above for information about contributing.
+
+## License
+
+This project is licensed under the [GNU GPLv3](http://www.gnu.org/licenses/gpl-3.0.txt). See the [LICENSE.txt](https://github.com/jnnfrlocke/portfolio/blob/master/LICENSE.txt) file for details.
+
 ## Copyright
 
 This website is Copyright 2017, Jennifer Locke. All content, including images and text, is original except where noted.
 
 ## Acknowledgments
 
-* Inspired by and created (mostly) in CodeNinja's RAMP class
+* Inspired by and created (mostly) in CodeNinja's RAMP class.
+* [Amy Plant](http://amyplant.me/), Instructor 
