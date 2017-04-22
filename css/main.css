@@ -47,17 +47,22 @@ p {
 
 header {
     background-image: url("../images/beach1.png");
-    height: 300px;
+    /*Desktop Display*/
+    /*height: 300px;*/
+    /*End Desktop Display*/
+    /*Mobile Display*/
+    height: 150px;
+    /*End Mobile Display*/
 }
 
 nav {
     /*Desktop Display*/
-    /*text-align: right;*/
+    /*text-align: right;
+    margin: 0 20px 0 0;*/
     /*End Desktop Display*/
+    /*Mobile Display*/
     text-align: center;
-    /*Desktop Display*/
-    /*margin: 0 20px 0 0;*/
-    /*End Desktop Display*/
+    /*End Mobile Display*/
     padding-top: 10px;
     font-family: 'Raleway', sans-serif;
     font-variant: small-caps;
@@ -99,7 +104,13 @@ footer div {
 
 footer img {
     width: 315px;
-    margin: 0 42.5px 0 42.5px;
+    /*Desktop Display*/
+    /*margin: 0 42.5px 0 42.5px;*/
+    /*End Desktop Display*/
+    /*Mobile Display*/
+    display: block;
+    margin: auto;
+    /*End Mobile Display*/
 }
 
 footer h2 {
