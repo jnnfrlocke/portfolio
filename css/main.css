@@ -1,8 +1,15 @@
 :root {
     width: 825px;
+    margin: auto;
 }
 
-h1,
+h1 {
+    color: #223a43;
+    font-weight: bold;
+    margin: 2em 0 0 160px;
+    font-variant: small-caps;
+}
+
 h2 {
     color: #223a43;
     font-weight: bold;
@@ -10,7 +17,12 @@ h2 {
 }
 
 header {
-    background-image: url("../images/beach1.jpg");
+    background-image: url("../images/beach1.png");
+    height: 300px;
+}
+
+nav {
+    text-align: right;
 }
 
 #about {}
