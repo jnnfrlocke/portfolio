@@ -45,6 +45,14 @@ p {
     font-family: 'Raleway', sans-serif;
 }
 
+a:link {
+    color: #223a43;
+}
+
+a:visited {
+    color: #223a43;
+}
+
 header {
     background-image: url("../images/beach1.png");
     /*Desktop Display*/
