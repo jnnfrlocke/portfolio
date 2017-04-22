@@ -45,11 +45,7 @@ p {
     font-family: 'Raleway', sans-serif;
 }
 
-a:link {
-    color: #223a43;
-}
-
-a:visited {
+a {
     color: #223a43;
 }
 
@@ -130,5 +126,9 @@ footer h2 {
 }
 
 footer h3 {
+    color: #f4e8c1;
+}
+
+footer a {
     color: #f4e8c1;
 }
