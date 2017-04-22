@@ -11,9 +11,15 @@ h1 {
 }
 
 h2 {
+    margin: 0;
+    padding: 2em 0 1em 0;
     color: #223a43;
     font-weight: bold;
     text-align: center;
+}
+
+p {
+    margin: 20px;
 }
 
 header {
@@ -25,7 +31,10 @@ nav {
     text-align: right;
 }
 
-#about {}
+#about {
+    background: #b2ccd5;
+    height: 200px;
+}
 
 #skills {}
 
