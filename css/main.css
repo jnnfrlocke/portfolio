@@ -1,0 +1,29 @@
+:root {
+    width: 825px;
+}
+
+h1 {
+    color: #223a43;
+    font-weight: bold;
+    text-align: center;
+}
+
+header {}
+
+#about {}
+
+#skills {}
+
+#recs {}
+
+footer {}
+
+footer div {
+    width: 400px;
+    display: inline-block;
+    float: left;
+}
+
+footer img {
+    width: 315px;
+}
