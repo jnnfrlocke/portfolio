@@ -2,13 +2,16 @@
     width: 825px;
 }
 
-h1 {
+h1,
+h2 {
     color: #223a43;
     font-weight: bold;
     text-align: center;
 }
 
-header {}
+header {
+    background-image: url("../images/beach1.jpg");
+}
 
 #about {}
 
