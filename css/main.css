@@ -6,13 +6,21 @@
 h1 {
     color: #223a43;
     font-weight: bold;
-    margin: 2em 0 0 160px;
+    margin: 1em 0 0 20px;
     font-variant: small-caps;
 }
 
 h2 {
     margin: 0;
     padding: 2em 0 1em 0;
+    color: #223a43;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    margin: 0;
+    padding: 1em 0 1em 0;
     color: #223a43;
     font-weight: bold;
     text-align: center;
@@ -44,9 +52,14 @@ nav {
     width: 809px;
 }
 
-#recs {}
+#recs {
+    background: #f4e8c1;
+}
 
-footer {}
+footer {
+    background: #223a43;
+    height: 230px;
+}
 
 footer div {
     width: 400px;
@@ -56,4 +69,22 @@ footer div {
 
 footer img {
     width: 315px;
+    margin: auto;
+}
+
+footer h2 {
+    margin: 0;
+    padding: 2em 0 1em 0;
+    color: #f4e8c1;
+    font-weight: bold;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+footer h3 {
+    /*   margin: 0;
+    padding: 1em 0 1em 0;
+   */
+    color: #f4e8c1;
+    /*font-weight: bold;*/
 }
