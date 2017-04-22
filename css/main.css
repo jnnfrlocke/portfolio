@@ -36,7 +36,13 @@ nav {
     height: 200px;
 }
 
-#skills {}
+#skills {
+    background: #6b8f71;
+}
+
+#skills img {
+    width: 809px;
+}
 
 #recs {}
 
